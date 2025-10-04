@@ -141,7 +141,7 @@ a {
     background-image: url(hero_iphone_air__0gxyavihpiqu_large.jpg);
     background-repeat: no-repeat;
     background-position:center ;
-    background-size:contain;
+     background-size:180% auto;
   
 }
 
@@ -160,8 +160,8 @@ a {
     background-image: url(hero_iphone_17__c5vvimu9a20y_large.jpg);
     background-repeat: no-repeat;
     background-position:center ;
-    background-size:contain;
-    transform: scale(1.1); /* zoom 10% */
+    background-size:180% auto;
+  
 
 }
 #iphone-17 .textbox {
